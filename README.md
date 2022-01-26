@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @comeonsunny
-- 👀 I’m interested in the algorithm of machine learning.
-- 🌱 I’m currently learning the logistic regression and Hidden Markov Model
+- 👀 I’m interested in hiding access pattern.
+- 🌱 I’m currently design a new ORAM scheme to achieve the O(1) bandwidth blowup without computation in server. 
 - 📫 How to reach me : 2286323940@qq.com
 
 <!---
